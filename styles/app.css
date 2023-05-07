@@ -1,0 +1,23 @@
+body {
+  background-color: bisque;
+  text-align: center;
+}
+h1 {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-size: 35px;
+}
+p {
+  font-size: 17px;
+}
+img {
+  width: 500px;
+}
+footer {
+  margin: 20px;
+}
+
+footer a {
+  color: rgb(240, 42, 42);
+  font-size: 18px;
+  margin: 10px;
+}
