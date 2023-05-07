@@ -5,12 +5,15 @@ body {
 h1 {
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
   font-size: 35px;
+  text-shadow: 5px 3px 5px rgb(238, 159, 153);
 }
 p {
   font-size: 17px;
 }
 img {
   width: 500px;
+  border: 2px solid rgb(109, 32, 32);
+  border-radius: 1ch;
 }
 footer {
   margin: 20px;
