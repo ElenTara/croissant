@@ -14,7 +14,7 @@ p {
   font-size: 17px;
 }
 img {
-  width: 500px;
+  width: 100%;
   border: 2px solid rgb(109, 32, 32);
   border-radius: 1ch;
 }
